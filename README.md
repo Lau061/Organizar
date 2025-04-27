@@ -39,7 +39,4 @@ Se você não informar nenhum caminho, ele organiza a pasta atual.
 
 Criado por **Laurinha** em abril de 2025.
 
----
 
-Espero que este projeto seja útil! 🚀  
-Fique à vontade para contribuir ou sugerir melhorias.
