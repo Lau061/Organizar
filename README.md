@@ -1,4 +1,4 @@
-# Organizador de Arquivos no Linux 🗂️🐧
+# Organizador de Arquivos no Linux -- Teste
 
 Este é um script simples em Bash que organiza automaticamente os arquivos de uma pasta, separando-os em subpastas de acordo com seus tipos (imagens, documentos, áudios, vídeos e outros).
 
