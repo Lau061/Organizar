@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Organizador de Arquivos por Tipo
-# Autor: SeuNomeAqui
+# Autor: Laura Hermones
 # Data: 27/04/2025
 
 # Defina o diretório a ser organizado (pode mudar para "." para o diretório atual)
