@@ -37,7 +37,7 @@ Se você não informar nenhum caminho, ele organiza a pasta atual.
 
 ## Autor
 
-Criado por **SeuNomeAqui** em abril de 2025.
+Criado por **Laurinha** em abril de 2025.
 
 ---
 
